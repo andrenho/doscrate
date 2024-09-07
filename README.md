@@ -1,0 +1,2 @@
+# doscrate
+A Dosbox frontend
